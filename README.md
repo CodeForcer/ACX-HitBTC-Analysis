@@ -22,3 +22,5 @@ To check all the trips once simply run the script and then call the function che
 
 
 This script also features an automatic mode, where it will continuously check for profitable arbitrage trades. If a trade is found the script will add it to a CSV file in the working directory. This allows the trader to let the script run for several days if necessary, to gain a full understanding of the potential profit which may be present.
+
+Please note that positive returns using script such as this don't indicate profitable arbitrage, however they do show an opportunity worth exploring further. To get a full picture of potential arbitrage profit it is necessary to gather data through Websocket and then simulate trades against the orderbooks of both exchanges, taking into account latency and other associated risks.
