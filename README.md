@@ -13,7 +13,7 @@ REST ticker data tends to heavily overstate profit opportunities, and also show 
 Because of this, REST ticker analysis is an ideal first step. We can quickly acertain if no profit exists and move on without wasting further time.
 
 
-This demonstartion script shows that (As of 23/11/2017) there does not exist any profitable opportunities for a trader who wishes to arbitrage between ACX.io and HitBTC.com
+This demonstration script shows that (As of 23/11/2017) there does not exist any profitable opportunities for a trader who wishes to arbitrage between ACX.io and HitBTC.com
 
 To demonstrate this, the script continuously simulates ticker trades against all of the 6 possible arbitrage trips which can be made using both exchanges. The script will print the trip taken and percentage profit made for each of the possible trips.
 
