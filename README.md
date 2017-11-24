@@ -10,7 +10,7 @@ The first steps worth taking are a simple arbitrage analysis of the ticker data 
 
 REST ticker data tends to heavily overstate profit opportunities, and also show opportunity where none exists. However, the one upside is that it will never miss a profitable opportunity. If there is the potential to make a profitable arbitrage trade anywhere in the orderbooks then the simulated ticker trade will yield a positive return (after fees).
 
-Because of this, REST ticker analysis is an ideal first step. We can quickly acertain if no profit exists (From an arbitrage strategy) and move on without wasting further time.
+Because of this, REST ticker analysis is an ideal first step. We can quickly acertain if no profit exists (from an arbitrage strategy) and move on without wasting further time.
 
 
 This demonstration script shows that (As of 23/11/2017) there does not exist any profitable opportunities for a trader who wishes to arbitrage between ACX.io and HitBTC.com
